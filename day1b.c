@@ -6,9 +6,9 @@ int main()
     int a, b;
     int  sum, diff, product, quotient;
     printf("Enter first number: ");
-    scanf("%f", &a);
+    scanf("%d", &a);
     printf("Enter second number: ");
-    scanf("%f", &b);
+    scanf("%d", &b);
     sum = a + b;
     diff = a - b;
     product = a * b;
